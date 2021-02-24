@@ -1,3 +1,3 @@
 module github.com/hiyanxu/foo
 
-go 1.13
+go 1.16
