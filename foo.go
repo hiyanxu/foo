@@ -5,3 +5,7 @@ func Bar() string {
 //	return "这是一个更好的版本"
 	return "这是v0.3.0版本"
 }
+
+func Quz() string {
+	return "this is a quz func"
+}
